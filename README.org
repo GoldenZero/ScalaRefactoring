@@ -1,0 +1,11 @@
+A small exercise to test your refactoring skills.
+
+The idea is to take the function in
+=/tmp/RefactoringScala/src/main/scala/Refactoring.scala= and give it
+some love by refactoring it and making it understandable.
+
+Suggestions are to make use of type synonyms, make the algorithm more
+readable, and improve tests first. Then it is really up to your taste
+and programming background :)
+
+Have fun!
